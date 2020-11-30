@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.20" xml:lang="en-US">
+  <compounddef id="classsuma" kind="class" language="Java" prot="public">
+    <compoundname>suma</compoundname>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="classsuma_1a81473e2ead8bdb550de8648f4a0faf0b" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void suma.main</definition>
+        <argsstring>(String[] args)</argsstring>
+        <name>main</name>
+        <param>
+          <type>String[]</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="suma.java" line="5" column="22" bodyfile="suma.java" bodystart="5" bodyend="15"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="suma.java" line="3" column="7" bodyfile="suma.java" bodystart="3" bodyend="16"/>
+    <listofallmembers>
+      <member refid="classsuma_1a81473e2ead8bdb550de8648f4a0faf0b" prot="public" virt="non-virtual"><scope>suma</scope><name>main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.20" xml:lang="en-US">
+  <compound refid="classsuma" kind="class"><name>suma</name>
+    <member refid="classsuma_1a81473e2ead8bdb550de8648f4a0faf0b" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="namespacejavax_1_1swing" kind="namespace"><name>javax::swing</name>
+  </compound>
+  <compound refid="suma_8java" kind="file"><name>suma.java</name>
+  </compound>
+</doxygenindex>
